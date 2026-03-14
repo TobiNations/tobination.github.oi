@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hello from Lagos!</title>
+  <style>
+    body { font-family: Arial; text-align: center; background: #f0f8ff; padding: 50px; }
+    h1 { color: #0066cc; }
+    p { font-size: 20px; }
+  </style>
+</head>
+<body>
+  <h1>Hi! This is Tobi's first website 🚀</h1>
+  <p>I'm in Lagos, Nigeria 🌍</p>
+  <p>This site is hosted for FREE on GitHub — March 2026</p>
+  <p>Edit this anytime — it updates in seconds!</p>
+</body>
+</html>
